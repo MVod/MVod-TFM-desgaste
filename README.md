@@ -6,13 +6,15 @@ Módulo del TFM *"Estrategia inteligente para la detección del desgaste en imá
 
 ---
 
-Trabajo relacionado en el grupo TFM
+## Trabajo relacionado en el grupo TFM
 
 Este módulo forma parte de un proyecto grupal donde cada miembro implementa una estrategia diferente sobre el mismo problema:
 
 
 Daniel Alcalde Martin Calero — PatchCore (detección de anomalías sin supervisión)
+
 Jordi Peiro Castello — Comparativa multi-modelo (U-Net, DeepLab, otros)
+
 Miguel Gonzalez Sanchez — SAM + LoRA (este módulo)
 
 ---
