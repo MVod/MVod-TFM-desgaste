@@ -1,0 +1,21 @@
+aggregation: max
+backbone: efficientnet-b0
+batch_size: 2
+branch: B
+crest_width_mm: 0.19
+data_dir: data
+epochs: 10
+flank_angle_deg: 60.0
+image_size:
+- 384
+- 512
+lr: 0.001
+mlflow_uri: sqlite:///mlflow.db
+model_dir: models
+pitch_mm: 1.5
+save_models: false
+scale_factor_path: scale_factor.json
+seed: 42
+thread_height_mm: 0.76
+valley_width_mm: 0.19
+vis_dir: null

@@ -1,0 +1,86 @@
+2026/05/16 21:19:38 INFO mlflow.tracking.fluent: Experiment with name 'branch_E' does not exist. Creating a new experiment.
+
+[Branch E] Fold 1/24 — test tool: 000501_0
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+  tool_score=0.042 | true=0 | F1=0.00
+
+[Branch E] Fold 2/24 — test tool: 000501_1
+  tool_score=0.039 | true=1 | F1=0.00
+
+[Branch E] Fold 3/24 — test tool: 000502_0
+  tool_score=0.010 | true=0 | F1=0.00
+
+[Branch E] Fold 4/24 — test tool: 000502_1
+  tool_score=0.021 | true=1 | F1=0.00
+
+[Branch E] Fold 5/24 — test tool: 000503_0
+  tool_score=0.017 | true=0 | F1=0.00
+
+[Branch E] Fold 6/24 — test tool: 000503_1
+  tool_score=0.019 | true=1 | F1=0.00
+
+[Branch E] Fold 7/24 — test tool: 000504_0
+  tool_score=0.016 | true=0 | F1=0.00
+
+[Branch E] Fold 8/24 — test tool: 000504_1
+  tool_score=0.015 | true=1 | F1=0.00
+
+[Branch E] Fold 9/24 — test tool: 000505_0
+  tool_score=0.014 | true=0 | F1=0.00
+
+[Branch E] Fold 10/24 — test tool: 000505_1
+  tool_score=0.017 | true=1 | F1=0.00
+
+[Branch E] Fold 11/24 — test tool: 000506_0
+  tool_score=0.010 | true=0 | F1=0.00
+
+[Branch E] Fold 12/24 — test tool: 000506_1
+  tool_score=0.018 | true=1 | F1=0.00
+
+[Branch E] Fold 13/24 — test tool: 000507_0
+  tool_score=0.013 | true=0 | F1=0.00
+
+[Branch E] Fold 14/24 — test tool: 000507_1
+  tool_score=0.023 | true=1 | F1=0.00
+
+[Branch E] Fold 15/24 — test tool: 000508_0
+  tool_score=0.016 | true=0 | F1=0.00
+
+[Branch E] Fold 16/24 — test tool: 000508_1
+  tool_score=0.019 | true=1 | F1=0.00
+
+[Branch E] Fold 17/24 — test tool: 000509_0
+  tool_score=0.011 | true=0 | F1=0.00
+
+[Branch E] Fold 18/24 — test tool: 000509_1
+  tool_score=0.023 | true=1 | F1=0.00
+
+[Branch E] Fold 19/24 — test tool: 000510_0
+  tool_score=0.016 | true=0 | F1=0.00
+
+[Branch E] Fold 20/24 — test tool: 000510_1
+  tool_score=0.018 | true=1 | F1=0.00
+
+[Branch E] Fold 21/24 — test tool: 000511_0
+  tool_score=0.012 | true=0 | F1=0.00
+
+[Branch E] Fold 22/24 — test tool: 000511_1
+  tool_score=0.024 | true=1 | F1=0.00
+
+[Branch E] Fold 23/24 — test tool: 000512_0
+  tool_score=0.132 | true=0 | F1=0.00
+
+[Branch E] Fold 24/24 — test tool: 000512_1
+  tool_score=0.034 | true=1 | F1=0.00
+
+=== Branch E LOO-CV Summary ===
+  accuracy_mean: 0.5000
+  accuracy_std: 0.5000
+  auc_roc_mean: 0.7986
+  auc_roc_std: nan
+  auprc_mean: 0.6872
+  auprc_std: nan
+  f1_mean: 0.0000
+  f1_optimal_mean: 0.8462
+  f1_optimal_threshold: 0.0168
+  f1_std: 0.0000

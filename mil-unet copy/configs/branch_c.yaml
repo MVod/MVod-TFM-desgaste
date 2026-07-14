@@ -1,0 +1,13 @@
+aggregation: mean
+branch: C
+crest_width_mm: 0.19
+data_dir: ../data
+mlflow_uri: sqlite:///mlflow.db
+model_dir: models
+pitch_mm: 1.5
+save_models: false
+scale_factor_path: scale_factor.json
+seed: 42
+thread_height_mm: 0.76
+valley_width_mm: 0.19
+vis_dir: null
